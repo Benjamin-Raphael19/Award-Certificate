@@ -1,0 +1,14 @@
+<html>
+<head>Welcome to Raphael International Graphics And Forensics School<head>
+<body>
+<h1>about us</h1>
+<h2>join us</h2>
+<html>
+<head>Contact Us<head>
+<h1>contact us page</h1>
+<h2>Enter details here</h2>
+<p>Enter name:</p>;<input type="text"/>
+<p>Enter age:</p>;<input type="number"/>
+<p>Enter date of birth:</p>;<input type="Date/Time"/>
+<p>Enter sex:</p>;<input type="text"/>
+<p>Enter email:</p>;<input type="text","number"/>
